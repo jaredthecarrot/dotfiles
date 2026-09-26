@@ -1,5 +1,5 @@
-# .dotfiles
-.dotfiles for common programs
+# dotfiles
+dotfiles for common programs
 
 ### Usage
 
